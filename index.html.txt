@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projeto Simples de HTML e CSS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo ao meu site!</h1>
+  </header>
+
+  <section class="content">
+    <h2>Sobre mim</h2>
+    <p>Olá! Este é um projeto simples de HTML e CSS para mostrar como criar uma página web.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Jonathas Ramos</p>
+  </footer>
+</body>
+</html>
